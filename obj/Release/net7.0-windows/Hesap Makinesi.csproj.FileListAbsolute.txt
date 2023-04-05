@@ -1,0 +1,18 @@
+C:\Users\izci_\OneDrive\Masaüstü\TinyProjects\Hesap Makinesi\bin\Release\net7.0-windows\Hesap Makinesi.exe
+C:\Users\izci_\OneDrive\Masaüstü\TinyProjects\Hesap Makinesi\bin\Release\net7.0-windows\Hesap Makinesi.deps.json
+C:\Users\izci_\OneDrive\Masaüstü\TinyProjects\Hesap Makinesi\bin\Release\net7.0-windows\Hesap Makinesi.runtimeconfig.json
+C:\Users\izci_\OneDrive\Masaüstü\TinyProjects\Hesap Makinesi\bin\Release\net7.0-windows\Hesap Makinesi.dll
+C:\Users\izci_\OneDrive\Masaüstü\TinyProjects\Hesap Makinesi\bin\Release\net7.0-windows\Hesap Makinesi.pdb
+C:\Users\izci_\OneDrive\Masaüstü\TinyProjects\Hesap Makinesi\obj\Release\net7.0-windows\Hesap Makinesi.csproj.AssemblyReference.cache
+C:\Users\izci_\OneDrive\Masaüstü\TinyProjects\Hesap Makinesi\obj\Release\net7.0-windows\Hesap_Makinesi.Form1.resources
+C:\Users\izci_\OneDrive\Masaüstü\TinyProjects\Hesap Makinesi\obj\Release\net7.0-windows\Hesap Makinesi.csproj.GenerateResource.cache
+C:\Users\izci_\OneDrive\Masaüstü\TinyProjects\Hesap Makinesi\obj\Release\net7.0-windows\Hesap Makinesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izci_\OneDrive\Masaüstü\TinyProjects\Hesap Makinesi\obj\Release\net7.0-windows\Hesap Makinesi.AssemblyInfoInputs.cache
+C:\Users\izci_\OneDrive\Masaüstü\TinyProjects\Hesap Makinesi\obj\Release\net7.0-windows\Hesap Makinesi.AssemblyInfo.cs
+C:\Users\izci_\OneDrive\Masaüstü\TinyProjects\Hesap Makinesi\obj\Release\net7.0-windows\Hesap Makinesi.csproj.CoreCompileInputs.cache
+C:\Users\izci_\OneDrive\Masaüstü\TinyProjects\Hesap Makinesi\obj\Release\net7.0-windows\Hesap Makinesi.dll
+C:\Users\izci_\OneDrive\Masaüstü\TinyProjects\Hesap Makinesi\obj\Release\net7.0-windows\refint\Hesap Makinesi.dll
+C:\Users\izci_\OneDrive\Masaüstü\TinyProjects\Hesap Makinesi\obj\Release\net7.0-windows\Hesap Makinesi.pdb
+C:\Users\izci_\OneDrive\Masaüstü\TinyProjects\Hesap Makinesi\obj\Release\net7.0-windows\Hesap Makinesi.genruntimeconfig.cache
+C:\Users\izci_\OneDrive\Masaüstü\TinyProjects\Hesap Makinesi\obj\Release\net7.0-windows\ref\Hesap Makinesi.dll
+C:\Users\izci_\OneDrive\Masaüstü\TinyProjects\Hesap Makinesi\obj\Release\net7.0-windows\Hesap_Makinesi.Properties.Resources.resources

@@ -1,0 +1,5 @@
+C:\Users\izci_\OneDrive\Masaüstü\TinyProjects\Hesap Makinesi\publish2\Hesap Makinesi.exe
+C:\Users\izci_\OneDrive\Masaüstü\TinyProjects\Hesap Makinesi\publish2\Hesap Makinesi.dll
+C:\Users\izci_\OneDrive\Masaüstü\TinyProjects\Hesap Makinesi\publish2\Hesap Makinesi.deps.json
+C:\Users\izci_\OneDrive\Masaüstü\TinyProjects\Hesap Makinesi\publish2\Hesap Makinesi.runtimeconfig.json
+C:\Users\izci_\OneDrive\Masaüstü\TinyProjects\Hesap Makinesi\publish2\Hesap Makinesi.pdb
